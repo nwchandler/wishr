@@ -1,0 +1,6 @@
+/target
+wish
+wishr
+
+# Vagrant box files
+.vagrant

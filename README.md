@@ -1,0 +1,1 @@
+**wishr** is a small Unix shell, written in Rust and based on [wish](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell) from the University of Wisconsin. See [this series](https://nickchandler.dev/series/wishr/) for more background!
