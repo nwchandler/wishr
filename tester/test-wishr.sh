@@ -1,8 +1,8 @@
 #! /usr/bin/env bash
 
 if ! [[ -x ./wish ]]; then
-    echo "wish executable does not exist"
-    exit 1
+	echo "wish executable does not exist"
+	exit 1
 fi
 
-./run-tests.sh $*
+./run-tests.sh $* -c -v
